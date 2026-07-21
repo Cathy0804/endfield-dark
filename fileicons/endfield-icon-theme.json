@@ -1,0 +1,218 @@
+{
+  "hidesExplorerArrows": false,
+  "iconDefinitions": {
+    "_lean": {
+      "iconPath": "./icons/lean.svg"
+    },
+    "_toml": {
+      "iconPath": "./icons/toml.svg"
+    },
+    "_json": {
+      "iconPath": "./icons/json.svg"
+    },
+    "_yaml": {
+      "iconPath": "./icons/yaml.svg"
+    },
+    "_xml": {
+      "iconPath": "./icons/xml.svg"
+    },
+    "_cfg": {
+      "iconPath": "./icons/cfg.svg"
+    },
+    "_py": {
+      "iconPath": "./icons/py.svg"
+    },
+    "_js": {
+      "iconPath": "./icons/js.svg"
+    },
+    "_ts": {
+      "iconPath": "./icons/ts.svg"
+    },
+    "_shell": {
+      "iconPath": "./icons/shell.svg"
+    },
+    "_c": {
+      "iconPath": "./icons/c.svg"
+    },
+    "_md": {
+      "iconPath": "./icons/md.svg"
+    },
+    "_txt": {
+      "iconPath": "./icons/txt.svg"
+    },
+    "_pdf": {
+      "iconPath": "./icons/pdf.svg"
+    },
+    "_tex": {
+      "iconPath": "./icons/tex.svg"
+    },
+    "_css": {
+      "iconPath": "./icons/css.svg"
+    },
+    "_html": {
+      "iconPath": "./icons/html.svg"
+    },
+    "_git": {
+      "iconPath": "./icons/git.svg"
+    },
+    "_lock": {
+      "iconPath": "./icons/lock.svg"
+    },
+    "_img": {
+      "iconPath": "./icons/img.svg"
+    },
+    "_zip": {
+      "iconPath": "./icons/zip.svg"
+    },
+    "_bin": {
+      "iconPath": "./icons/bin.svg"
+    },
+    "_file": {
+      "iconPath": "./icons/file.svg"
+    },
+    "_folder": {
+      "iconPath": "./icons/folder.svg"
+    },
+    "_folder_open": {
+      "iconPath": "./icons/folder-open.svg"
+    },
+    "_root": {
+      "iconPath": "./icons/root.svg"
+    },
+    "_root_open": {
+      "iconPath": "./icons/root-open.svg"
+    }
+  },
+  "file": "_file",
+  "folder": "_folder",
+  "folderExpanded": "_folder_open",
+  "rootFolder": "_root",
+  "rootFolderExpanded": "_root_open",
+  "fileExtensions": {
+    "lean": "_lean",
+    "toml": "_toml",
+    "json": "_json",
+    "jsonc": "_json",
+    "json5": "_json",
+    "yaml": "_yaml",
+    "yml": "_yaml",
+    "xml": "_xml",
+    "plist": "_xml",
+    "svg": "_xml",
+    "ini": "_cfg",
+    "cfg": "_cfg",
+    "conf": "_cfg",
+    "env": "_cfg",
+    "properties": "_cfg",
+    "py": "_py",
+    "pyi": "_py",
+    "ipynb": "_py",
+    "js": "_js",
+    "mjs": "_js",
+    "cjs": "_js",
+    "jsx": "_js",
+    "ts": "_ts",
+    "tsx": "_ts",
+    "mts": "_ts",
+    "sh": "_shell",
+    "bash": "_shell",
+    "zsh": "_shell",
+    "ps1": "_shell",
+    "psm1": "_shell",
+    "bat": "_shell",
+    "cmd": "_shell",
+    "c": "_c",
+    "h": "_c",
+    "cpp": "_c",
+    "hpp": "_c",
+    "cc": "_c",
+    "rs": "_c",
+    "go": "_c",
+    "java": "_c",
+    "md": "_md",
+    "markdown": "_md",
+    "rst": "_md",
+    "adoc": "_md",
+    "txt": "_txt",
+    "log": "_txt",
+    "text": "_txt",
+    "pdf": "_pdf",
+    "djvu": "_pdf",
+    "epub": "_pdf",
+    "tex": "_tex",
+    "bib": "_tex",
+    "cls": "_tex",
+    "sty": "_tex",
+    "css": "_css",
+    "scss": "_css",
+    "less": "_css",
+    "html": "_html",
+    "htm": "_html",
+    "gitignore": "_git",
+    "gitmodules": "_git",
+    "lock": "_lock",
+    "sum": "_lock",
+    "png": "_img",
+    "jpg": "_img",
+    "jpeg": "_img",
+    "gif": "_img",
+    "webp": "_img",
+    "ico": "_img",
+    "bmp": "_img",
+    "tiff": "_img",
+    "zip": "_zip",
+    "gz": "_zip",
+    "tar": "_zip",
+    "7z": "_zip",
+    "rar": "_zip",
+    "vsix": "_zip",
+    "whl": "_zip",
+    "exe": "_bin",
+    "dll": "_bin",
+    "so": "_bin",
+    "dylib": "_bin",
+    "olean": "_bin",
+    "o": "_bin",
+    "a": "_bin",
+    "bin": "_bin",
+    "dat": "_bin",
+    "pak": "_bin"
+  },
+  "fileNames": {
+    "lakefile.lean": "_lean",
+    "lake-manifest.json": "_lean",
+    "lean-toolchain": "_lean",
+    "lakefile.toml": "_toml",
+    "Cargo.toml": "_toml",
+    ".vsixmanifest": "_json",
+    ".editorconfig": "_cfg",
+    ".gitattributes": "_cfg",
+    "README.md": "_md",
+    "CHANGELOG.md": "_md",
+    "LICENSE": "_txt",
+    "LICENSE.txt": "_txt",
+    "NOTICE": "_txt",
+    ".gitignore": "_git",
+    ".gitmodules": "_git",
+    ".gitconfig": "_git",
+    "package-lock.json": "_lock",
+    "poetry.lock": "_lock"
+  },
+  "languageIds": {
+    "lean4": "_lean",
+    "json": "_json",
+    "jsonc": "_json",
+    "yaml": "_yaml",
+    "xml": "_xml",
+    "python": "_py",
+    "javascript": "_js",
+    "typescript": "_ts",
+    "shellscript": "_shell",
+    "powershell": "_shell",
+    "markdown": "_md",
+    "plaintext": "_txt",
+    "latex": "_tex",
+    "css": "_css",
+    "html": "_html"
+  }
+}

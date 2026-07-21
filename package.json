@@ -1,0 +1,47 @@
+{
+  "name": "endfield-dark",
+  "displayName": "Endfield Dark",
+  "description": "Dark theme with matching file icons: cold grey ground, silver text, industrial yellow and Klein blue accents.",
+  "version": "1.0.0",
+  "publisher": "Cathy0804",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "icon theme",
+    "industrial"
+  ],
+  "galleryBanner": {
+    "color": "#272C33",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cathy0804/endfield-dark.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cathy0804/endfield-dark/issues"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Endfield Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/endfield-dark-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "endfield-dark-icons",
+        "label": "Endfield Dark Icons",
+        "path": "./fileicons/endfield-icon-theme.json"
+      }
+    ]
+  }
+}
